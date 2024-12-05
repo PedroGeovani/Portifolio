@@ -2,8 +2,7 @@
 </script>
 
 <template>
-<section>
-
-  Teste
-</section>
+  <section class="text-3xl">
+    Portifolio
+  </section>
 </template>
